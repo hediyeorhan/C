@@ -9,19 +9,19 @@ int main()
         if(i%2==0)
         {
 
-            printf("%d\n",i); // \n yerine %-4d yazsaydýk. 4 boþluk olurdu yan yana yazardýk - sola dayalý yazmasý için.
+            printf("%d\n",i); // \n yerine %-4d yazsaydÄ±k. 4 boÅŸluk olurdu yan yana yazardÄ±k - sola dayalÄ± yazmasÄ± iÃ§in.
 
             toplam=toplam+i;
         }
     }*/
-    //WHÝLE DÖNGÜSÜ ÝLE YAPIMI!:
+    //WHÄ°LE DÃ–NGÃœSÃœ Ä°LE YAPIMI!:
     int i=1,toplam=0;
     while(i<=100)
     {
           if(i%2==0)
         {
 
-            printf("%d\n",i); // \n yerine %-4d yazsaydýk. 4 boþluk olurdu yan yana yazardýk - sola dayalý yazmasý için.
+            printf("%d\n",i); // \n yerine %-4d yazsaydÄ±k. 4 boÅŸluk olurdu yan yana yazardÄ±k - sola dayalÄ± yazmasÄ± iÃ§in.
 
             toplam=toplam+i;
         }
