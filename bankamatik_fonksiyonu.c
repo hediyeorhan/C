@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*Bankamatik:
-–Kendisine parametre olarak gelen YTL cinsinden para miktarını 20, 10 ve 5 TL'lik birimler halinde hesaplar.
-–Girilen miktar 5 YTL'nin bir katı değilse, ekrana uygun bir mesaj gönderir.
-–Bankamatik fonksiyonunu yazınız.*/
+â€“Kendisine parametre olarak gelen YTL cinsinden para miktarini 20, 10 ve 5 TL'lik birimler halinde hesaplar.
+â€“Girilen miktar 5 YTL'nin bir kati degilse, ekrana uygun bir mesaj gÃ¶nderir.
+â€“Bankamatik fonksiyonunu yaziniz.*/
 int banka(int para)
 {
 
