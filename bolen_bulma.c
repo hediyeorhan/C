@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main()
-{ // 2,3 ve 5'e bölünen 300'den küçük sayılar..
-    //kısayoldan ekokları olan 30'u bularak hesapladık.
+{ // 2,3 ve 5'e bÃ¶lÃ¼nen 300'den kÃ¼Ã§Ã¼k sayÃ½lar..
+    //kÃ½sayoldan ekoklarÃ½ olan 30'u bularak hesapladÃ½k.
     int i;
    // for(i=0;i<300;i=i+30)
    /* {
