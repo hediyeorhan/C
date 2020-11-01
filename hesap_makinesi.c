@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//HEDIYE ORHAN - 18010011087
+
 int main()
 {
     printf("HESAP MAKINESI PROGRAMINA HOSGELDINIZ!\n\n");
