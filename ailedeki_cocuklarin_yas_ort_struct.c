@@ -3,7 +3,7 @@
 
 /*
 
-ailelerin soyadları ve her ailede kac cocuk oldugu cocuklarin adi ve yasi..
+ailelerin soyadlarÄ± ve her ailede kac cocuk oldugu cocuklarin adi ve yasi..
 
 */
 
